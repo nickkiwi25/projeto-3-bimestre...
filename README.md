@@ -2,7 +2,7 @@
 
 # Sobre
 
-## Recursosde acessibilidade
+## Recursos de acessibilidade
 
 -Atributos aria
 
