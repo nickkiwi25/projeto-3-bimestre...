@@ -1,15 +1,26 @@
 Site acessível sobre Reggae
 
 Sobre
-Recursosde acessibilidade
+
+"Recursosde acessibilidade"
+
 .Atributos aria
+
 .alt
+
 .tab-index
+
 .menu de acessibilidade
 
-Tecnologias utilizadas
+"Tecnologias utilizadas"
+
+
 .Bootstrap
+
 .ScrollRevealjs
+
 .HTML
+
 .CSS
+
 .JS
